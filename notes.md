@@ -1,28 +1,24 @@
-Breadcrumbs: [[Work Projects]]
-
 # Ofcom Rules
 
-On 25/04/25 I wrote this on the Sheffield Digital Slack:
+This is a document to guide my thoughts on the Online Safety Act and how it might apply to a user-to-user site I'm
+building.
 
-    https://app.slack.com/client/T06QMD04T/C06QMGVA9
-
-I want to talk to people about understanding the  new rules from ofcom "Protecting Children from Harms". It seems to me
-very wide ranging and if you have users who log in to a site you might have to do all sorts of checks.
-
-I started getting responses and people involved.
 
 # Sources of info
+
+I'm numbering the source documents using SXXX so I can refer to them quickly and unambiguously. A lot of these things
+have long names.
+
 
 I found these articles.
 
 - [S101 BBC News article](https://www.bbc.co.uk/news/articles/c5yljn2vkn1o)
 - [S102 Offcom press release](https://www.ofcom.org.uk/online-safety/protecting-children/new-rules-for-a-safer-generation-of-children-online)
-- [S103 "The codes"](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-protecting-children-from-harms-online)
+- [S103 The codes](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-protecting-children-from-harms-online)
   S103 links to all the relavant info as far as I can tell, including the regulatory guidance and documents below (S111,
   S112).
 
-
-Dr James Parrott offered these sources to back up his claims
+These came up in the Slack Chat on Sheffield Digital
 
 - [S111 Ofcom Childrens Access Assement Guidance](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-1-10-w[…]ns-access/childrens-access-assessments-guidance.pdf?v=395679)
 - [S112 Ofcom Children's Risk Assesment](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/quick-guide-to-childrens-risk-assessments?language=en)
@@ -31,11 +27,17 @@ Also, of course, there is the Act:
 
 - [S120 Online Safety Act](https://www.legislation.gov.uk/ukpga/2023/50/enacted)
 
+Ofcom have a tool
+
 - [S121 Ofcom Assessment Tool](https://www.ofcom.org.uk/os-toolkit/assessment-tool)
 
 A recommended guide from Russ Garrett, but as of writing, last updated in Jan 2025.
 
 - [S300 Online Safety Act Guide](https://russ.garrett.co.uk/2024/12/17/online-safety-act-guide/)
+
+Another guide recommended on what to do here:
+
+- [S310 Online Safety Act Website](https://onlinesafetyact.co.uk/)
 
 
 ## All the codes documents from S103.
@@ -68,14 +70,9 @@ Total guidance 710 pages.
 # Resources
 I have been collating information on who might be interested in an [Airtable here](https://airtable.com/appkJM3uWm6VMz1be/tblw4ne59mHT4lYpG/viwggLsDHI9nZU0rb?blocks=hide)
 
-# Proposed reading order.
-
-- S300.
 
 
 # Terms
-
-
 - "Child Access Assessment".
 - "Part 3 Services" - Regulated user-to-user and search services.
 - "user-to-user service" - TODO
@@ -90,7 +87,6 @@ I have been collating information on who might be interested in an [Airtable her
   particular categories, based on thresholds, users, categories defined in Schedule 11. Smaller but still significant.
   User-to-user or search.
 
-
 # Things a site might have to do!
 
 - Create a Child Access Assessment.
@@ -102,22 +98,17 @@ What can/has been claimed about what this all means?
 
 ## Scope of Child Access Assessment
 
-[James Parrott](https://sheffielddigital.slack.com/archives/C06QMGVA9/p1745610972062699?thread_ts=1745571325.870649&cid=C06QMGVA9)
+[JP](https://sheffielddigital.slack.com/archives/C06QMGVA9/p1745610972062699?thread_ts=1745571325.870649&cid=C06QMGVA9)
 Any web site or platform that makes user generated content accessible to other users (that's not solely SMS/MMS,
 webmail, or Skype/Zoom etc.) needs to do a Child Access Assessment, which could potentially lead to a further Children's
 Risk Assessment (e.g. if strict age verification isn't enforced).
 Confirmed by S112
 
-[James Parrott](https://sheffielddigital.slack.com/archives/C06QMGVA9/p1745610972062699?thread_ts=1745571325.870649&cid=C06QMGVA9)
+[JP](https://sheffielddigital.slack.com/archives/C06QMGVA9/p1745610972062699?thread_ts=1745571325.870649&cid=C06QMGVA9)
 In particular, unfortunately, unlike some other requirements of the OSA, my current understanding is that this
 requirement (to carry out child access, and potentially child risk assessments) cannot be avoided by simply not being a
 Category 1, Category 2A, or 2B service (e.g. 7 million -3 million MAU ).  That's extra stuff Facebook et al have to do,
 in addition to this.
-
-## General
-
-[James Parrott](https://sheffielddigital.slack.com/archives/C06QMGVA9/p1745610972062699?thread_ts=1745571325.870649&cid=C06QMGVA9)
-Ofcom's guidance is pretty straightforward, albeit quite subjective in practise.
 
 
 # My Questions
@@ -138,13 +129,9 @@ Q104 What are the risks of non-compliance?
 
 Q105 Ecommerce sites with user reviews. - Is this user-to-user content?
 
-
-# Practical guide flowchart.
-
+Q106 How big do we have to be?
 
 
-
-# Questions to put forward to government through Sheffield Digital
 
 
 
