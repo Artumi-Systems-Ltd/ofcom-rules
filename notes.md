@@ -67,9 +67,11 @@ Total page count for the codes: 972.
 Total guidance 710 pages.
 
 
+## Sources of claims made in S300
 
+- [S330 Ofcom Overview of regulated services](https://www.ofcom.org.uk/siteassets/resources/documents/online-safety/information-for-industry/illegal-harms/overview-of-regulated-services.pdf?v=387540) 18 pages.
 
-
+- [S331 Ofcom Online Safety Enforcement Guidance](https://www.ofcom.org.uk/siteassets/resources/documents/online-safety/information-for-industry/illegal-harms/online-safety-enforcement-guidance.pdf?v=391925) 57 pages.
 
 
 # Terms
@@ -115,7 +117,7 @@ in addition to this.
 
 Read S300 - create questions as I go along. Answer them if possible. But are the answers sourced?
 
-Read S310 - create questions as I go along. Answer them if possible. But are the answers sourced?
+Read S301 - create questions as I go along. Answer them if possible. But are the answers sourced?
 
 
 # My Questions
@@ -145,8 +147,22 @@ S300-C1) Contrary to some rumours, as a small site the OSA does not require you 
 posts – you only have to respond to reports when they are made.  //todo - find source
 
 S300-C2) It doesn't apply to user-to-user services when they are "Limited functionality Services". It seems to cover
-product reviews.
+product reviews. Supported by S330.
+
+S300-C3) If you’re found not to be complying with the OSA, Ofcom will generally aim to engage with you and ask you to fix it first. Supported by S331
+
+S300-C4) Startup founders can be found personally liable for fines. Supported by Section 7 of S331.
+
+# For club launchpad.
+
+- We will do an assesement within 3 months of launching
+- We will record the assessment.
 
 
 
+
+# General complaints about the Act.
+
+They shy away from using definitions. e.g. They use "a significant number" in various places without saying what that
+number is. It's probably also hard to get agreement to and so they don't try. Lazy? Pragmatic? Annoying!
 
