@@ -153,11 +153,22 @@ S300-C3) If you’re found not to be complying with the OSA, Ofcom will generall
 
 S300-C4) Startup founders can be found personally liable for fines. Supported by Section 7 of S331.
 
-# For club launchpad.
+S300 doesn't get into Age-Verification. I emailed the author and he said it was "out of scope" of the blog post.
 
-- We will do an assesement within 3 months of launching
+S300-C5) "If your service is likely to be accessed by children and permits pornographic content, you’re required to carry out “highly effective” age verification"
+Importantly we don't need it if the terms prohibit this completely for all users. Supported by the Act. Section 7(4) and
+7(5)
+
+# For Club Launchpad.
+
+Club Launchpad is a service we're building to get people starting and running clubs.  So it's user-to-user but we can
+prohibit much user-to-user conversation - as we're encouraging in person relationships - and we can ban harmful content.
+
+- We will do an assesement within 3 months of launching.
 - We will record the assessment.
-
+- We need to look at ownership.
+- We need to make sure terms prohibit harmful content entirely.
+- We need some reporting tools and some moderation tools.
 
 
 
