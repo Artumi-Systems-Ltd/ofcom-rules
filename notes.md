@@ -37,7 +37,7 @@ A recommended guide from Russ Garrett, but as of writing, last updated in Jan 20
 
 Another guide recommended on what to do here:
 
-- [S310 Online Safety Act Website](https://onlinesafetyact.co.uk/)
+- [S301 Online Safety Act Website](https://onlinesafetyact.co.uk/)
 
 
 ## All the codes documents from S103.
@@ -67,8 +67,8 @@ Total page count for the codes: 972.
 Total guidance 710 pages.
 
 
-# Resources
-I have been collating information on who might be interested in an [Airtable here](https://airtable.com/appkJM3uWm6VMz1be/tblw4ne59mHT4lYpG/viwggLsDHI9nZU0rb?blocks=hide)
+
+
 
 
 
@@ -111,6 +111,13 @@ Category 1, Category 2A, or 2B service (e.g. 7 million -3 million MAU ).  That's
 in addition to this.
 
 
+# Tasks for this morning.
+
+Read S300 - create questions as I go along. Answer them if possible. But are the answers sourced?
+
+Read S310 - create questions as I go along. Answer them if possible. But are the answers sourced?
+
+
 # My Questions
 
 Q101 James' talks of a "Category 1" "Category 2A" and "Category 2B service". Are these from the Act? Does it matter right
@@ -132,6 +139,13 @@ Q105 Ecommerce sites with user reviews. - Is this user-to-user content?
 Q106 How big do we have to be?
 
 
+# Selected Claims from S300
+
+S300-C1) Contrary to some rumours, as a small site the OSA does not require you to proactively monitor or scan people’s
+posts – you only have to respond to reports when they are made.  //todo - find source
+
+S300-C2) It doesn't apply to user-to-user services when they are "Limited functionality Services". It seems to cover
+product reviews.
 
 
 
