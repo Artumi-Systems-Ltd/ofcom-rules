@@ -169,7 +169,7 @@ prohibit much user-to-user conversation - as we're encouraging in person relatio
 - We need to look at ownership.
 - We need to make sure terms prohibit harmful content entirely.
 - We need some reporting tools and some moderation tools.
-
+- We need to do illegal content risk assessments within 3 months of starting.
 
 
 # General complaints about the Act.
